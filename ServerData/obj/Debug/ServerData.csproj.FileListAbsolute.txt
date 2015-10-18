@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2013\Projects\Solution1\ServerData\bin\Debug\ServerData.dll
+c:\users\user\documents\visual studio 2013\Projects\Solution1\ServerData\bin\Debug\ServerData.pdb
+c:\users\user\documents\visual studio 2013\Projects\Solution1\ServerData\obj\Debug\ServerData.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\Solution1\ServerData\obj\Debug\ServerData.dll
+c:\users\user\documents\visual studio 2013\Projects\Solution1\ServerData\obj\Debug\ServerData.pdb

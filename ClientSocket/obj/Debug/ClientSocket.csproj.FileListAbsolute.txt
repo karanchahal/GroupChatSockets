@@ -1,0 +1,1 @@
+c:\users\user\documents\visual studio 2013\Projects\Solution1\ClientSocket\bin\Debug\ClientSocket.exe.config
